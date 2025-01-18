@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+tqdm
+transformers
+gliner
+openai
+torch
+nltk
+Pillow
